@@ -1,12 +1,12 @@
 ### Hi there 👋
-We are a **fullstack Flutter and Rails software developer**. We develop apps for mobile (Android/iOS), web, and desktop from a single codebase.
+I am a **fullstack Flutter and Rails software developer**. I develop apps for mobile (Android/iOS), web, and desktop from a single codebase.
 
-- 🔭 We are currently working on **Xebrra Fintech**
-- 🌱 We are currently coding in **Ruby on Rails**, **Flutter**, and **Nuxtjs (Reactjs)**
-- 👯 We are looking to collaborate on open source and private **Rails** and **Flutter** projects
-- 🤔 We are currently reviewing code at **Microverse**. We review projects built in **HTML/CSS/JS**, **Ruby on Rails** and **Reactjs**
-- 😄 Pronouns: they
-- ⚡ Fun fact: We don't have any fun fact :)
+- 🔭 I am currently working on **Xebrra Fintech**
+- 🌱 I am currently coding in **Ruby on Rails**, **Flutter**, and **Nuxtjs (Reactjs)**
+- 👯 I am looking to collaborate on open source and private **Rails** and **Flutter** projects
+- 🤔 I am currently reviewing code at **Microverse**. I review projects built in **HTML/CSS/JS**, **Ruby on Rails** and **Reactjs**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't have any fun fact :)
 
 ### Open source
 
