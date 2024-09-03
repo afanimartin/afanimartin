@@ -1,12 +1,12 @@
-### Hi there 👋
-I am a **fullstack Flutter and Rails software developer**. I develop apps for mobile (Android/iOS), web, and desktop from a single codebase.
+### Howdy 👋
+I am a **fullstack web and mobile software developer**. I develop apps for mobile (Android/iOS) using **Flutter** and **Reactjs**, **Nodejs** for web.
 
-- 🔭 I am currently working on **Xebrra Fintech**
-- 🌱 I am currently coding in **Ruby on Rails**, **Flutter**, and **Nextjs (Reactjs)**
-- 👯 I am looking to collaborate on open source and private **Rails** and **Flutter** projects
-- 🤔 I am currently reviewing code at **Microverse**. I review projects built in **HTML/CSS/JS**, **Ruby on Rails** and **Reactjs**
+- 🔭 I am currently working on **Xzerra Fintech** with some college friends
+- 🌱 I am currently coding in **Nodejs**, **Flutter**, and **Reactjs**
+- 👯 I am looking to collaborate on open source and private **Nodejs**, **Reactjs** and **Flutter** projects
+- 🤔 I am currently also working on AI powered e-learning called **Med'ressa**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't have any fun fact :)
+- ⚡ Fun fact: I learnt to swim after almost drowning at age 9 :)
 
 ### Open source
 
